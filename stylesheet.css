@@ -1,0 +1,106 @@
+.avatar
+{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    margin: 20px 20px 0px 80px;
+}
+.container
+{
+  
+    height: 100px;
+    margin:10px;
+    gap: 25px;
+    align-items: center;
+    border-radius: 5px;
+    
+    
+    
+}
+h2{
+    margin-left: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+
+
+.header
+{
+   background-color:lightcyan;
+
+ height: 100px;
+
+    display: flex;
+
+
+ border: groove 1px;
+ border-radius: 10px;
+}
+.info
+{
+    background-image: linear-gradient(to bottom right ,rgb(113, 214, 18),red);
+    height:200px;
+    width: 15rem;
+    border-radius: 10px;
+    border: groove orange 1px;
+    
+}
+.repos
+{
+    
+    display:flexbox;
+    position: relative;
+    margin: 20px;
+    margin-left: 20rem; 
+    border-radius: 10px;
+    border: groove orange 1px;
+    background-color: white;
+
+      
+    
+}
+.title
+{
+    margin-left: 20px;
+    display:grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    gap: 50px;
+}
+.logo
+{
+    height: 75px;
+    width: 75px;
+    margin-top: 15px;
+    margin-left: 3rem;
+}
+.image
+{
+    height: 50px;
+    width: 150px;
+    margin-left: 30rem;
+    margin-top: 20px;
+}
+.header{
+    display: flex;
+}
+
+h1{
+    margin-left: 40rem;
+    border-radius: 5px;
+    background-color: rgb(26, 230, 26);
+    margin-right: 30rem;
+    align-items: center;
+    padding-left: 1rem;
+    border: groove 1px black;
+}
+body
+{
+    background-image: linear-gradient(to top left ,red,orange,pink);
+}
+a
+{
+    text-decoration: none;
+    color:darkgreen;
+}
+
